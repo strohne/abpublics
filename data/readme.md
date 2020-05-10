@@ -1,0 +1,1 @@
+Gathered data is saved in subffolders, ready for analysis

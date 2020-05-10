@@ -1,0 +1,1 @@
+Generated logs are saved in subfolder
