@@ -1,1 +1,1 @@
-Gathered data is saved in subffolders, ready for analysis
+Gathered data is saved in subfolders, ready for analysis.
